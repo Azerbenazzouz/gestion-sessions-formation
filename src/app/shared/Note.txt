@@ -1,0 +1,4 @@
+// TODO: nav bar
+// TODO: home Img slider : covers of categories
+// TODO: chaque categorie presenter leur formation slider
+// TODO: footer
